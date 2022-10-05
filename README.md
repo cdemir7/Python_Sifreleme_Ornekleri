@@ -1,2 +1,2 @@
 # Python_Sifreleme_Ornekleri
-Şifreleme Türlerinden Python Dilinde Basit Düzeyde Örnek Kodlar
+Şifreleme Türlerinin Python Dilinde Basit Düzeyde Örnek Kodları
